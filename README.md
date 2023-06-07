@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felix-101
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning javascript 
+- 👀 I’m a passionate backend developer from nigeria
+- 🌱 I work mainly with javascript, but im also passionate about learning new technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kupoluyitolulope452@gmail.com 
 
