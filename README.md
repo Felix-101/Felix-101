@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Felix-101
-- 👀 I’m a passionate software developer from Nigeria, currently exploring the world of Flutter development.
+- 👀 I’m a passionate software developer from Nigeria, currently exploring the world of mobile development with Flutter.
 - 🌱 I work proficiently with JavaScript (Node.js & Express) and Dart (Flutter). I'm always eager to dive into new technologies and frameworks.
 - 💞️ I’m looking to collaborate on innovative projects, especially those involving mobile application development using Flutter, or any challenging opportunities that allow me to grow as a developer.
 - 📫 How to reach me: kupoluyitolulope452@gmail.com
 
 ### Technologies & Tools
 - **Languages:** JavaScript, Dart
-- **State management:** Bloc, Provider
+- **State Management:** Bloc, Provider
 - **Frameworks/Libraries:** Express, Flutter
 - **Databases:** MongoDB, PostgreSQL, Mysql
 - **Tools:** Git
